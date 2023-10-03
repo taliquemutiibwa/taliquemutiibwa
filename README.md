@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @taliquemutiibwa
 - 👀 I’m interested in building apps courses
 - 🌱 I’m currently learning how to build a website
-- 💞️ I’m looking to collaborate on ict related projects
+- 💞️ I’m looking to collaborate on ICT related projects
+- 
   
 
 <!---
