@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to build a website
 - 💞️ I’m looking to collaborate on ICT related projects
 - Contact me through
-- 
+- 0753658010
   
 
 <!---
